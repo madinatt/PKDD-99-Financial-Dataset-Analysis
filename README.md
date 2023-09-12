@@ -34,4 +34,4 @@ Based on specific criteria, it's possible to achieve perfect separation between 
 
 ## Conclusion
 
-The PKDD'99 Financial dataset presents a challenging binary classification task of predicting loan outcomes at the time of loan initiation. To achieve accurate results, it's essential to consider the temporal constraint and formulate the problem as a binary classification (A vs B). Effective modeling techniques, respecting the chronological order of events, and utilizing appropriate evaluation metrics will be critical for meaningful insights and accurate predictions.
+The PKDD'99 Financial dataset presents a challenging binary classification task of predicting loan outcomes at the time of loan initiation. To achieve accurate results, it's essential to consider the temporal constraint and formulate the problem as a binary classification (A vs B). Effective modeling techniques, respecting the chronological order of events, and utilizing appropriate evaluation metrics will be critical for meaningful insights and accurate predictions. 
