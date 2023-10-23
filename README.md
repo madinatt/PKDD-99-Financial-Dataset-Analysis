@@ -12,7 +12,7 @@ The primary task associated with this dataset is to predict the outcome of loans
 
 Respecting the temporal constraint is essential in this dataset analysis. Ignoring it can lead to inaccurate results and overestimation of model performance. Therefore, it is crucial to ensure that the temporal aspect is considered when building and evaluating predictive models.
 
-## Formulating the Problem
+## Formulating the Problem   
 
 The problem can be effectively formulated as a binary classification task (A vs B) to predict the loan outcome at the start of the loan, defined by the `loan.date`. The goal is to determine whether a loan will be successfully finished or left unfinished.
 
