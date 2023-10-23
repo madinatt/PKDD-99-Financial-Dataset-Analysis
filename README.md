@@ -24,7 +24,7 @@ Two factors significantly influence the accuracy of models in this analysis:
 
 2. **Binary Classification (A vs B):** Formulating the problem as a binary classification task, distinguishing between successful (A) and unsuccessful (B) loans, enables the evaluation of a model's effectiveness in making accurate predictions.
 
-## Sample Rules
+## Sample Rules  
 
 Based on specific criteria, it's possible to achieve perfect separation between certain loan categories:
 
