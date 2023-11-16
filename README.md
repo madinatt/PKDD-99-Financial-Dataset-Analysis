@@ -6,7 +6,7 @@ The PKDD'99 Financial dataset comprises information and transactions for loans, 
 
 ## Task: Predicting Loan Outcomes
 
-The primary task associated with this dataset is to predict the outcome of loans at the time of their initiation, specifically distinguishing between finished (A) and unfinished (B) loans. This binary classification task is crucial for assessing the accuracy of predictive models.
+The primary task associated with this dataset is to predict the outcome of loans at the time of their initiation, specifically distinguishing between finished (A) and unfinished (B) loans. This binary classification task is crucial for assessing the accuracy of predictive models
 
 ## Impact of Temporal Constraint
 
